@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Link for the website : </a>https://tinder-clone-da673.web.app/</a>
+
+# Deployed App : </a>https://tinder-clone-da673.web.app/</a>
 
 ## Available Scripts
 
